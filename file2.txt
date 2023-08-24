@@ -1,0 +1,5 @@
+Verstka
+JavaScript
+Vue or React
+
+Also TypeScript
