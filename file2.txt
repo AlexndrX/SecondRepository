@@ -4,3 +4,5 @@ Vue or React
 
 Also TypeScript
 Node JS
+
+PHP Basic
